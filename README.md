@@ -1,6 +1,6 @@
 # Reto-del-juego v3
 
-reto del juego en next u finalizado el 31 de enero por medio de sublime text
+reto del juego en next u finalizado el 10 de Febrero por medio de sublime text
 
 E-mail: darksage2013@gmail.com
 Celular: 593 9697299020
